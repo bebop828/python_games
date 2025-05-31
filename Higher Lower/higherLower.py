@@ -54,7 +54,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-#I want to add if user guesses a number lower/higher than previous guess when they should have guessed higher/lower, a message will return player guess needs to be higher or lower than last guess {[player guess]}
-#I also do not want it to count against them. 
